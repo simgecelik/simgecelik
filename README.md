@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simge</h1>
 <h3 align="center">Lifetime learner, code addict. I'm interesting front-end development.</h3>
 
-- 🌱 I’m currently learning **ReactJs,JavaScript,Css**
-
 - 👨‍💻 All of my projects are available at [https://github.com/simgecelik](https://github.com/simgecelik)
 
 - 📫 How to reach me **https://www.linkedin.com/in/simge%C3%A7elik/**
